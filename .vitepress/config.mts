@@ -161,6 +161,10 @@ export default defineConfig({
               text: "Commands & Permissions",
               link: "/fairyprestige/commands-and-permissions",
             },
+            {
+              text: "Placeholders",
+              link: "/fairyprestige/placeholders",
+            },
           ],
         },
         {
